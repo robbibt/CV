@@ -1,11 +1,33 @@
 # Robbi Bishop-Taylor
 ## Earth Observation / Geospatial Data Scientist
 
-* International recognition for academic achievements in geoscience and spatial science
+* International recognition for achievements in geospatial analysis and environmental geoscience
 * Expertise in GIS, Python and R programming for spatiotemporal analysis of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
+## Education
+
+**University of New South Wales** / 2014 – July 2017
+
+*PhD candidate in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
+* Modelled spatiotemporal surface water connectivity dynamics across a major Australian river basin using a novel graph theory network analysis framework 
+* Analysed high-resolution remote sensing datasets to study ecological habitat networks over a 25 year period 
+* Used advanced graph theoretic statistics to identify hydroclimatic and land use processes driving spatial and temporal changes in landscape connectivity  
+* Conducted the largest spatially explicit ecological network analysis published to date (6.6 million nodes)
+
+**University of New South Wales** / 2009 – 2013
+
+*Honours Class 1, B Advanced Science (Geoscience) / B Arts*
+* Modelled  dynamic and synergistic effects of climate change and agricultural intensification on historical land use patterns in central Bulgaria over the past 8000 years at varying spatiotemporal scales, using GIS and R programming
+
+
 ## Professional experience
+
+**Geoscience Australia** / 2018 - current
+* *Coastal Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform [(ongoing projects located in repositories here)](https://github.com/robbibt?utf8=✓&tab=repositories&q=GA)
+
+**University of New South Wales** / 2017
+* *Postdoctoral Researcher:* 
 
 **School of Biological, Earth & Environmental Science** / 2016
 * *GIS and remote sensing demonstrator:* Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course

@@ -5,7 +5,8 @@
 * Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:robbibt@gmail.com)    |    [Twitter](https://twitter.com/robbibt)    |    [Linkedin](https://www.linkedin.com/in/robbibt/)    |    [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor)
+[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/robbibt) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor)
+
 
 ## Education
 
@@ -24,6 +25,7 @@
 * Modelled  dynamic and synergistic effects of climate change and agricultural intensification on historical land use patterns in central Bulgaria over the past 8000 years at varying spatiotemporal scales, using GIS and R programming
 
 <img src="https://github.com/robbibt/CV/blob/master/trap_0.jpg?raw=true" width="600">
+
 
 ## Professional experience
 
@@ -45,6 +47,7 @@
 **Tundzha Regional Archaeological Project, Bulgaria** / 2011
 * *Geoscience field/research assistant:* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
+
 ## Awards and scholarships
 
 * **Outstanding Graphic Award:** Evolution and Ecology Research Centre Research Excellence Awards / 2016 
@@ -65,9 +68,10 @@
 
 * **F.C. Loughnan Prize for First Year Geology:**  Best performance in first year geology, UNSW / 2011
 
+* **Stockholm Junior Water Prize:** Australian winner and representative in World Water Week, Sweden / 2007
+
 * **Australian Museum Eureka Schools Prize for Earth, Environmental & Planetary Sciences:** Winner for *The Identification Of Critical Salinity Thresholds For Upper Estuarine Plants* / 2007
 
-* **Stockholm Junior Water Prize:** Australian winner and representative in World Water Week, Sweden / 2007
 
 ## Publications
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology* (in press)
@@ -93,6 +97,7 @@
 
 **Bishop-Taylor, R** Judd, K., Martin, L. & Clear, L. (in press) Surface soil survey in an archaeological context: the Kazanlak Geoscience Project, Bulgaria, in: *Tundzha Regional Archaeological Project*. Oxbow Books, London
 
+
 ## Presentations
 
 **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2017) Surface water dynamics and land use infuence landscape connectivity across a major dryland region. Paper presented at *28th International Congress for Conservation Biology* (ICCB), Cartagena, Colombia, 23-27 July 2017
@@ -103,10 +108,12 @@
 
 Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting*, Pilsen, Czech Republic, 4-8 Sep 2013.
 
+
 ## Media coverage
 
 * **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / December 2017
-* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621), / May 2016
+* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621) / May 2016
+
 
 ## Interests and hobbies
 **Cartographer / designer at EarthArtAustralia**

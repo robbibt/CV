@@ -55,11 +55,11 @@
 
 * **School of Humanities Prize:** Best performance in the Environmental Studies major in Bachelor of Arts, UNSW / 2012
 
-* **Faculty of Arts & Social Science Dean's Honor List** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
+* **Faculty of Arts & Social Science Dean's List** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
 
-* **Geographical Society of New South Wales Award:** Outstanding achievement in Second Year Geography / 2012
+* **Geographical Society of New South Wales Award:** Outstanding achievement in second year geography, UNSW / 2012
 
-* **F.C. Loughnan Prize for First Year Geology:**  Best performance in Geology component of Bachelor of Science, UNSW / 2011
+* **F.C. Loughnan Prize for First Year Geology:**  Best performance in first year geology, UNSW / 2011
 
 * **Australian Museum Eureka Schools Prize for Earth, Environmental & Planetary Sciences:** Winner for *The Identification Of Critical Salinity Thresholds For Upper Estuarine Plants* / 2007
 

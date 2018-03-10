@@ -5,6 +5,8 @@
 * Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
+[Email](mailto:robbibt@gmail.com)    |    [Twitter](https://twitter.com/robbibt)    |    [Linkedin](https://www.linkedin.com/in/robbibt/)    |    [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor)
+
 ## Education
 
 **University of New South Wales** / 2014 – July 2017
@@ -21,7 +23,7 @@
 *Honours Class 1, B Advanced Science (Geoscience) / B Arts*
 * Modelled  dynamic and synergistic effects of climate change and agricultural intensification on historical land use patterns in central Bulgaria over the past 8000 years at varying spatiotemporal scales, using GIS and R programming
 
-<img src="https://github.com/robbibt/CV/blob/master/trap_0.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/trap_0.jpg?raw=true" width="600">
 
 ## Professional experience
 
@@ -51,7 +53,7 @@
 
 * **NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congress / 2015
 
-* **The Conservation Science Prize:** Best presentation in conservation science, Postgraduate Research Forum, UNSW / 2014
+* **The Conservation Science Prize:** Best conservation science presentation, Postgraduate Research Forum, UNSW / 2014
 
 * **Australian Postgraduate Award (APA) with faculty top-up:** 3.5 year scholarship to support PhD research, UNSW / 2014
 

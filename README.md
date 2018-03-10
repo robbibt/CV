@@ -49,13 +49,15 @@
 
 * **Runner up, Outstanding Evolution and Ecology Presentation:** Postgraduate Research Forum, UNSW / 2016
 
-* **NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congressy / 2015
+* **NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congress / 2015
 
 * **The Conservation Science Prize:** Best presentation in conservation science, Postgraduate Research Forum, UNSW / 2014
 
+* **Australian Postgraduate Award (APA) with faculty top-up:** 3.5 year scholarship to support PhD research, UNSW / 2014
+
 * **School of Humanities Prize:** Best performance in the Environmental Studies major in Bachelor of Arts, UNSW / 2012
 
-* **Faculty of Arts & Social Science Dean's List** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
+* **Faculty of Arts & Social Science Dean's List:** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
 
 * **Geographical Society of New South Wales Award:** Outstanding achievement in second year geography, UNSW / 2012
 
@@ -110,5 +112,8 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 * Map artworks featured on Lonely Planet, Yahoo News, Gizmodo, Mashable
 
 **Nature and wildlife photographer**
-* 1st prize (Biodiversity), Ecological Society of Australia Photo competition 2016
+* **1st prize (Biodiversity):** [Ecological Society of Australia Photo competition](https://www.ecolsoc.org.au/media-and-events/esa-ecology-action-photo-competition/2016-photocomp-winners) / 2016
+* **Major Winner:**, [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) / 2016
+
+<img src="https://github.com/robbibt/CV/blob/master/cs_sinistermoth.jpg?raw=true" width="400">
 

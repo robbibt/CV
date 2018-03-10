@@ -2,7 +2,7 @@
 ## Earth Observation / Geospatial Data Scientist
 
 * International recognition for achievements in geospatial analysis and environmental geoscience
-* Expertise in GIS, Python and R programming for spatiotemporal analysis of large geographic datasets
+* Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
 ## Education
@@ -39,7 +39,7 @@
 * *Quality assurance/tester:* Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
 
 **Tundzha Regional Archaeological Project, Bulgaria** / 2011
-* *Geoscience field/research assistant:* Led a geoscience team on an independent research project collecting soil samples across extensive and unfamiliar terrain in rural Bulgaria. Analysed data using geospatial models and spatial statistical techniques
+* *Geoscience field/research assistant:* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
 ## Awards and scholarships
 
@@ -47,17 +47,17 @@
 
 * **Runner up, Outstanding Evolution and Ecology Presentation:** Postgraduate Research Forum, UNSW / 2016
 
-* **NASA-MSU Professional Enhancement Award:** Scholarship to attend World Congress of the International Association for Landscape Ecology / 2015
+* **NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congressy / 2015
 
-* **The Conservation Science Prize:** Best presentation in conservation science, at the Postgraduate Research Forum, UNSW / 2014
+* **The Conservation Science Prize:** Best presentation in conservation science, Postgraduate Research Forum, UNSW / 2014
 
-* **School of Humanities Prize:** Best performance in the Environmental Studies major of the Bachelor of Arts program, UNSW / 2012
+* **School of Humanities Prize:** Best performance in the Environmental Studies major in Bachelor of Arts, UNSW / 2012
 
-* **Faculty of Arts & Social Science Dean's Honor List** High Distinction average across all cources in the Bachelor of Arts program, UNSW / 2012
+* **Faculty of Arts & Social Science Dean's Honor List** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
 
 * **Geographical Society of New South Wales Award:** Outstanding achievement in Second Year Geography / 2012
 
-* **F.C. Loughnan Prize for First Year Geology:**  Best performance in the Geology component in Year 1 of the Bachelor of Science program, UNSW / 2011
+* **F.C. Loughnan Prize for First Year Geology:**  Best performance in Geology component of Bachelor of Science, UNSW / 2011
 
 * **Australian Museum Eureka Schools Prize for Earth, Environmental & Planetary Sciences:** Winner for *The Identification Of Critical Salinity Thresholds For Upper Estuarine Plants* / 2007
 

@@ -74,6 +74,11 @@
 
 **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) Influence of surface water network structure, landscape resistance to movement and flooding on ecological connectivity across Australia’s largest river basin. Paper presented at *9th Annual International Association for Landscape Ecology World Congress* (IALE), Portland, USA, 5-10 July 2015
 
+## Media coverage
+
+* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/), 13 December 2017
+* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621), 4 May 2016
+
 ## Interests and hobbies
 **Cartographer / designer at EarthArtAustralia**
 * Own and manage a popular online map art store selling big-data geographic prints

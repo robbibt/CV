@@ -10,8 +10,7 @@
 **University of New South Wales** / 2014 – July 2017
 
 *PhD candidate in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
-* Modelled spatiotemporal surface water connectivity dynamics across a major Australian river basin using a novel graph theory network analysis framework 
-* Analysed high-resolution remote sensing datasets to study ecological habitat networks over a 25 year period 
+* Analysed high-resolution remote sensing datasets to study ecological habitat networks across a major Australian river basin over a 25 year period 
 * Used advanced graph theoretic statistics to identify hydroclimatic and land use processes driving spatial and temporal changes in landscape connectivity  
 * Conducted the largest spatially explicit ecological network analysis published to date (6.6 million nodes)
 
@@ -27,8 +26,11 @@
 ## Professional experience
 
 **Geoscience Australia** / 2018 - current
-* *Coastal Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform [(ongoing projects located in repositories here)](https://github.com/robbibt?utf8=✓&tab=repositories&q=GA)
-
+* *Coastal Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
+    * [Developing a continental-scale digital elevation model of Australia's intertidal zone](https://github.com/robbibt/item_dem-GA)
+    * [Random forest machine-learning classification of geographic datasets](https://github.com/robbibt/randomforest-GA)
+    * [Time-series visualisation of coastal change dynamics using composited remote sensing imagery](https://github.com/robbibt/intertidalfilmstrips-GA)
+    
 **University of New South Wales** / 2017
 * *Postdoctoral Researcher:* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
 

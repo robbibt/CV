@@ -58,13 +58,17 @@
 ## Publications
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology* (in press)
 
+<img src="https://github.com/robbibt/CV/blob/master/paper4_figure1.jpg?raw=true" width="400">
+
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2017b) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
+
+<img src="https://github.com/robbibt/CV/blob/master/Bishop-Taylor_et_al_graphical_abstract.jpg?raw=true" width="400">
 
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2017a) [Surface‐water dynamics and land use influence landscape connectivity across a major dryland region](http://onlinelibrary.wiley.com/doi/10.1002/eap.1507/full). *Ecological Applications*, 27, 1124–1137  
 * Top 5% of all research outputs tracked by Altmetric (March 2017)
 * 7000 reads on Researchgate (March 2017)
 
-<img src="https://github.com/robbibt/CV/blob/master/animation_fast_top5.gif?raw=true" width="350">
+<img src="https://github.com/robbibt/CV/blob/master/animation_fast_top5.gif?raw=true" width="400">
 
 **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) [Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin](https://www.researchgate.net/publication/278671122). *Landscape Ecology*, 30, 2045–2065  
 * Featured in the Wall Street Journal (“How Maps Can Serve as Scientific  ‘Time Machines’; 4 May 2016)

@@ -103,8 +103,8 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 
 ## Media coverage
 
-* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/), 13 December 2017
-* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621), 4 May 2016
+* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / December 2017
+* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621), / May 2016
 
 ## Interests and hobbies
 **Cartographer / designer at EarthArtAustralia**
@@ -113,7 +113,7 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 
 **Nature and wildlife photographer**
 * **1st prize (Biodiversity):** [Ecological Society of Australia Photo competition](https://www.ecolsoc.org.au/media-and-events/esa-ecology-action-photo-competition/2016-photocomp-winners) / 2016
-* **Major Winner:**, [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) / 2016
+* **Major Winner:** [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) / 2016
 
 <img src="https://github.com/robbibt/CV/blob/master/cs_sinistermoth.jpg?raw=true" width="400">
 

@@ -91,7 +91,7 @@
 <img src="https://github.com/robbibt/CV/blob/master/paper2figure.jpg?raw=true" width="400">
 
 **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) [Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin](https://www.researchgate.net/publication/278671122). *Landscape Ecology*, 30, 2045–2065  
-* Featured in the Wall Street Journal (“How Maps Can Serve as Scientific  ‘Time Machines’; 4 May 2016)
+* Featured in the Wall Street Journal ("How Maps Can Serve as Scientific 'Time Machines'"; 4 May 2016)
 
 <img src="https://github.com/robbibt/CV/blob/master/paper1figure.jpg?raw=true" width="400">
 

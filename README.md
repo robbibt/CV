@@ -98,15 +98,17 @@
 **Bishop-Taylor, R** Judd, K., Martin, L. & Clear, L. (in press) Surface soil survey in an archaeological context: the Kazanlak Geoscience Project, Bulgaria, in: *Tundzha Regional Archaeological Project*. Oxbow Books, London
 
 
-## Presentations
+## Conferences
 
-**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2017) Surface water dynamics and land use infuence landscape connectivity across a major dryland region. Paper presented at *28th International Congress for Conservation Biology* (ICCB), Cartagena, Colombia, 23-27 July 2017
+Tulbure, M. G., **Bishop-Taylor, R.**, & Broich, M. (2017) The impact of land use change and hydroclimatic variability on landscape connectivity dynamics across surface water networks at subcontinental scale. Presented at *American Geophysical Union 2018 Fall Meeting* (AGU 17), New Orleans, USA, 10-15 December 2017
 
-**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) Influence of surface water network structure, landscape resistance to movement and flooding on ecological connectivity across Australia’s largest river basin. Paper presented at *9th Annual International Association for Landscape Ecology World Congress* (IALE), Portland, USA, 5-10 July 2015
+**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2017) Surface water dynamics and land use infuence landscape connectivity across a major dryland region. Paper presented at *28th International Congress for Conservation Biology* (ICCB 2017), Cartagena, Colombia, 23-27 July 2017
 
-**Bishop-Taylor, R.**, & Sobotkova, A. (2013) Arable productivity and site catchments in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting*, Pilsen, Czech Republic, 4-8 Sep 2013.
+**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) Influence of surface water network structure, landscape resistance to movement and flooding on ecological connectivity across Australia’s largest river basin. Paper presented at *9th Annual International Association for Landscape Ecology World Congress* (IALE 2015), Portland, USA, 5-10 July 2015
 
-Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting*, Pilsen, Czech Republic, 4-8 Sep 2013.
+**Bishop-Taylor, R.**, & Sobotkova, A. (2013) Arable productivity and site catchments in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
+
+Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
 
 
 ## Media coverage

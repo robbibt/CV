@@ -74,7 +74,7 @@
 
 
 ## Publications
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology* (in press)
+**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
 
 <img src="https://github.com/robbibt/CV/blob/master/paper4_figure1.jpg?raw=true" width="400">
 

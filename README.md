@@ -74,11 +74,11 @@
 
 
 ## Publications
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
+**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018b) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
 
 <img src="https://github.com/robbibt/CV/blob/master/paper4_figure1.jpg?raw=true" width="400">
 
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2017c) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
+**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018a) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
 
 <img src="https://github.com/robbibt/CV/blob/master/Bishop-Taylor_et_al_graphical_abstract.jpg?raw=true" width="400">
 

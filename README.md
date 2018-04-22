@@ -1,18 +1,18 @@
-# Robbi Bishop-Taylor
-## Earth Observation / Geospatial Data Scientist
+# Dr Robbi Bishop-Taylor
+## Earth Observation Scientist / Ph.D. in Geospatial Science
 
 * International recognition for achievements in geospatial analysis and environmental geoscience
 * Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/robbibt) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor)
+[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/robbibt) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
 
 
 ## Education
 
 **University of New South Wales** / 2014 – July 2017
 
-*PhD candidate in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
+*Doctor of Philosophy (Ph.D.) in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
 * Analysed high-resolution remote sensing datasets to study ecological habitat networks across a major Australian river basin over a 25 year period 
 * Used advanced graph theoretic statistics to identify hydroclimatic and land use processes driving spatial and temporal changes in landscape connectivity  
 * Conducted the largest spatially explicit ecological network analysis published to date (6.6 million nodes)
@@ -30,12 +30,12 @@
 ## Professional experience
 
 **Geoscience Australia** / 2018 - current
-* *Coastal Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
+* *Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
     * [Developing a continental-scale digital elevation model of Australia's intertidal zone](https://github.com/robbibt/item_dem-GA)
     * [Random forest machine-learning classification of geographic datasets](https://github.com/robbibt/randomforest-GA)
     * [Time-series visualisation of coastal change dynamics using composited remote sensing imagery](https://github.com/robbibt/intertidalfilmstrips-GA)
     
-**University of New South Wales** / 2017
+**University of New South Wales** / 2017 – 2018
 * *Postdoctoral Researcher:* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
 
 **School of Biological, Earth & Environmental Science** / 2016

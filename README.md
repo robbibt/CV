@@ -29,23 +29,23 @@
 
 ## Professional experience
 
-**Geoscience Australia** / 2018 - current
-* *Earth Observation Scientist:* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
+**Earth Observation Scientist, Geoscience Australia** / 2018 - current
+* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
     * [Developing a continental-scale digital elevation model of Australia's intertidal zone](https://github.com/robbibt/item_dem-GA)
     * [Random forest machine-learning classification of geographic datasets](https://github.com/robbibt/randomforest-GA)
     * [Time-series visualisation of coastal change dynamics using composited remote sensing imagery](https://github.com/robbibt/intertidalfilmstrips-GA)
     
-**University of New South Wales** / 2017 – 2018
-* *Postdoctoral Researcher:* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
+**Postdoctoral Researcher, University of New South Wales** / 2017 – 2018
+* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
 
-**School of Biological, Earth & Environmental Science** / 2016
-* *GIS and remote sensing demonstrator:* Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course
+**GIS and remote sensing demonstrator, School of Biological, Earth & Environmental Science** / 2016
+* Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course
 
-**Intersect Australia Pty Ltd** / 2012 – 2014
-* *Quality assurance/tester:* Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
+**Quality assurance/tester, Intersect Australia Pty Ltd** / 2012 – 2014
+* Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
 
-**Tundzha Regional Archaeological Project, Bulgaria** / 2011
-* *Geoscience field/research assistant:* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
+**Geoscience field/research assistant, Tundzha Regional Archaeological Project, Bulgaria** / 2011
+* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
 
 ## Awards and scholarships

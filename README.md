@@ -10,7 +10,7 @@
 
 ## Education
 
-**University of New South Wales** / 2014 – July 2017
+**University of New South Wales** / 2014 – 2017
 
 *Doctor of Philosophy (Ph.D.) in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
 * Analysed high-resolution remote sensing datasets to study ecological habitat networks across a major Australian river basin over a 25 year period 
@@ -116,9 +116,9 @@ Judd, K., **Bishop-Taylor, R.**, Clear, L., Martin, L. (2014) Surface Soil Surve
 Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
 
 
-## Media coverage
+## Research media coverage
 
-* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / December 2017
+* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / Dec 2017
 * **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621) / May 2016
 
 

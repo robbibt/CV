@@ -17,14 +17,14 @@
 * Used advanced graph theoretic statistics to identify hydroclimatic and land use processes driving spatial and temporal changes in landscape connectivity  
 * Conducted the largest spatially explicit ecological network analysis published to date (6.6 million nodes)
 
-<img src="https://github.com/robbibt/CV/blob/master/animation_fast_top5.gif?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/animation_fast_top5.gif?raw=true" width="400">
 
 **University of New South Wales** / 2009 – 2013
 
 *Honours Class 1, B Advanced Science (Geoscience) / B Arts*
 * Modelled  dynamic and synergistic effects of climate change and agricultural intensification on historical land use patterns in central Bulgaria over the past 8000 years at varying spatiotemporal scales, using GIS and R programming
 
-<img src="https://github.com/robbibt/CV/blob/master/trap_0.jpg?raw=true" width="600">
+<img src="https://github.com/robbibt/CV/blob/master/images/trap_0.jpg?raw=true" width="600">
 
 
 ## Professional experience
@@ -76,11 +76,11 @@
 ## Publications
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018b) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
 
-<img src="https://github.com/robbibt/CV/blob/master/paper4_figure1.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/paper4_figure1.jpg?raw=true" width="400">
 
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018a) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
 
-<img src="https://github.com/robbibt/CV/blob/master/Bishop-Taylor_et_al_graphical_abstract.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/Bishop-Taylor_et_al_graphical_abstract.jpg?raw=true" width="400">
 
 **Bishop-Taylor R**, Tulbure M.G. , Broich M (2017b) [Data from: Surface-water dynamics and land use influence landscape connectivity across a major dryland region](http://dx.doi.org/10.5061/dryad.qf83q). *Dryad Digital Repository.* http://dx.doi.org/10.5061/dryad.qf83q
 
@@ -88,12 +88,12 @@
 * Top 5% of all research outputs tracked by Altmetric (March 2017)
 * 7000 reads on Researchgate (March 2017)
 
-<img src="https://github.com/robbibt/CV/blob/master/paper2figure.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/paper2figure.jpg?raw=true" width="400">
 
 **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) [Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin](https://www.researchgate.net/publication/278671122). *Landscape Ecology*, 30, 2045–2065  
 * Featured in the Wall Street Journal ("How Maps Can Serve as Scientific 'Time Machines'"; 4 May 2016)
 
-<img src="https://github.com/robbibt/CV/blob/master/paper1figure.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/paper1figure.jpg?raw=true" width="400">
 
 **Bishop-Taylor, R** Judd, K., Martin, L. & Clear, L. (in press) Surface soil survey in an archaeological context: the Kazanlak Geoscience Project, Bulgaria, in: *Tundzha Regional Archaeological Project*. Oxbow Books, London
 
@@ -131,5 +131,5 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 * **1st prize (Biodiversity):** [Ecological Society of Australia Photo competition](https://www.ecolsoc.org.au/media-and-events/esa-ecology-action-photo-competition/2016-photocomp-winners) / 2016
 * **Major Winner:** [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) / 2016
 
-<img src="https://github.com/robbibt/CV/blob/master/cs_sinistermoth.jpg?raw=true" width="400">
+<img src="https://github.com/robbibt/CV/blob/master/images/cs_sinistermoth.jpg?raw=true" width="400">
 

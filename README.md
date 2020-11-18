@@ -1,11 +1,31 @@
 # Dr Robbi Bishop-Taylor
-## Earth Observation Scientist / Ph.D. in Geospatial Science
+## Coastal Earth Observation Scientist / Ph.D. in Geospatial Science
 
 * International recognition for achievements in geospatial analysis and environmental geoscience
 * Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/robbibt) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
+[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/SatelliteSci) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
+
+
+## Professional experience
+
+**Earth Observation Scientist, Geoscience Australia** / 2018 - current
+* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
+    * DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present
+    * [NIDEM: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
+    
+**Postdoctoral Researcher, University of New South Wales** / 2017 – 2018
+* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
+
+**GIS and remote sensing demonstrator, School of Biological, Earth & Environmental Science** / 2016
+* Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course
+
+**Quality assurance/tester, Intersect Australia Pty Ltd** / 2012 – 2014
+* Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
+
+**Geoscience field/research assistant, Tundzha Regional Archaeological Project, Bulgaria** / 2011
+* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
 
 ## Education
@@ -27,50 +47,32 @@
 <img src="https://github.com/robbibt/CV/blob/master/images/trap_0.jpg?raw=true" width="600">
 
 
-## Professional experience
-
-**Earth Observation Scientist, Geoscience Australia** / 2018 - current
-* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
-    * [Developing a continental-scale digital elevation model of Australia's intertidal zone](https://github.com/robbibt/item_dem-GA)
-    * [Random forest machine-learning classification of geographic datasets](https://github.com/robbibt/randomforest-GA)
-    * [Time-series visualisation of coastal change dynamics using composited remote sensing imagery](https://github.com/robbibt/intertidalfilmstrips-GA)
-    
-**Postdoctoral Researcher, University of New South Wales** / 2017 – 2018
-* Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
-
-**GIS and remote sensing demonstrator, School of Biological, Earth & Environmental Science** / 2016
-* Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course
-
-**Quality assurance/tester, Intersect Australia Pty Ltd** / 2012 – 2014
-* Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
-
-**Geoscience field/research assistant, Tundzha Regional Archaeological Project, Bulgaria** / 2011
-* Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
 
 ## Awards and scholarships
+* **2019 Australian Government Digital Awards:** Finalist for the individual Digital Champions category
 
-* **Outstanding Graphic Award:** Evolution and Ecology Research Centre Research Excellence Awards / 2016 
+* **2019, 2020 Geoscience Australia Year in Review:** Nominated for Maximising Data Potential and Innovation
 
-* **Runner up, Outstanding Evolution and Ecology Presentation:** Postgraduate Research Forum, UNSW / 2016
+* **2016 Outstanding Graphic Award:** Evolution and Ecology Research Centre Research Excellence Awards
 
-* **NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congress / 2015
+* **2016 Runner up, Outstanding Evolution and Ecology Presentation:** Postgraduate Research Forum, UNSW
 
-* **The Conservation Science Prize:** Best conservation science presentation, Postgraduate Research Forum, UNSW / 2014
+* **2015 NASA-MSU Professional Enhancement Award:** Scholarship to attend IALE World Congress
 
-* **Australian Postgraduate Award (APA) with faculty top-up:** 3.5 year scholarship to support PhD research, UNSW / 2014
+* **2014 The Conservation Science Prize:** Best conservation science presentation, Postgraduate Research Forum, UNSW 
 
-* **School of Humanities Prize:** Best performance in the Environmental Studies major in Bachelor of Arts, UNSW / 2012
+* **2012 School of Humanities Prize:** Best performance in the Environmental Studies major in Bachelor of Arts, UNSW
 
-* **Faculty of Arts & Social Science Dean's List:** High Distinction average across all Bachelor of Arts courses, UNSW / 2012
+* **2012 Faculty of Arts & Social Science Dean's List:** High Distinction average across all Bachelor of Arts courses, UNSW
 
-* **Geographical Society of New South Wales Award:** Outstanding achievement in second year geography, UNSW / 2012
+* **2012 Geographical Society of New South Wales Award:** Outstanding achievement in second year geography, UNSW
 
-* **F.C. Loughnan Prize for First Year Geology:**  Best performance in first year geology, UNSW / 2011
+* **2011 F.C. Loughnan Prize for First Year Geology:**  Best performance in first year geology, UNSW
 
-* **Stockholm Junior Water Prize:** Australian winner and representative in World Water Week, Sweden / 2007
+* **2007 Stockholm Junior Water Prize:** Australian winner and representative in World Water Week, Sweden
 
-* **Australian Museum Eureka Schools Prize for Earth, Environmental & Planetary Sciences:** Winner for *The Identification Of Critical Salinity Thresholds For Upper Estuarine Plants* / 2007
+* **2007 Australian Museum Eureka Schools Prize for Earth, Environmental & Planetary Sciences:** Winner for *The Identification Of Critical Salinity Thresholds For Upper Estuarine Plants* 
 
 
 ## Publications

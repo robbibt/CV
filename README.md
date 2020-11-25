@@ -131,6 +131,7 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 
 
 ## Research media coverage
+* **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand)
 * **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019
 * **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) / June 2019
 * **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / Dec 2017

@@ -114,24 +114,24 @@
 
 ## Conferences
 
-Tulbure, M. G., **Bishop-Taylor, R.**, & Broich, M. (2017) The impact of land use change and hydroclimatic variability on landscape connectivity dynamics across surface water networks at subcontinental scale. Presented at *American Geophysical Union 2018 Fall Meeting* (AGU 17), New Orleans, USA, 10-15 December 2017
+* Tulbure, M. G., **Bishop-Taylor, R.**, & Broich, M. (2017) The impact of land use change and hydroclimatic variability on landscape connectivity dynamics across surface water networks at subcontinental scale. Presented at *American Geophysical Union 2018 Fall Meeting* (AGU 17), New Orleans, USA, 10-15 December 2017
 
-**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2017) Surface water dynamics and land use infuence landscape connectivity across a major dryland region. Paper presented at *28th International Congress for Conservation Biology* (ICCB 2017), Cartagena, Colombia, 23-27 July 2017
+* **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2017) Surface water dynamics and land use infuence landscape connectivity across a major dryland region. Paper presented at *28th International Congress for Conservation Biology* (ICCB 2017), Cartagena, Colombia, 23-27 July 2017
 
-Tulbure, M. G., Broich, M., Stehman, S. V., Shendryk, I., Heimhuber, V., Kommareddy, A., **Bishop-Taylor, R.** (2016) 	
+* Tulbure, M. G., Broich, M., Stehman, S. V., Shendryk, I., Heimhuber, V., Kommareddy, A., **Bishop-Taylor, R.** (2016) 	
 Spatiotemporal Dynamics and Trends in Surface Water and Flooding Extent from Three Decades of Seasonally Continuous Landsat Time Series at Subcontinental Scale: Product Development and Applications. Presented at *American Geophysical Union 2016 Fall Meeting* (AGU 16), San Francisco, 12-16 December 2016
 
-**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) Influence of surface water network structure, landscape resistance to movement and flooding on ecological connectivity across Australia’s largest river basin. Paper presented at *9th Annual International Association for Landscape Ecology World Congress* (IALE 2015), Portland, USA, 5-10 July 2015
+* **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) Influence of surface water network structure, landscape resistance to movement and flooding on ecological connectivity across Australia’s largest river basin. Paper presented at *9th Annual International Association for Landscape Ecology World Congress* (IALE 2015), Portland, USA, 5-10 July 2015
 
-Judd, K., **Bishop-Taylor, R.**, Clear, L., Martin, L. (2014) Surface Soil Survey in an Archaeological Context: The Kazanlak Geoscience Project, Bulgaria. Geological Society of Australia, 2014 Australian Earth Sciences Convention (AESC), Sustainable Australia. Abstract No 110 of the 22nd Australian Geological Convention, Newcastle, New South Wales, 7-10 July 2014
+* Judd, K., **Bishop-Taylor, R.**, Clear, L., Martin, L. (2014) Surface Soil Survey in an Archaeological Context: The Kazanlak Geoscience Project, Bulgaria. Geological Society of Australia, 2014 Australian Earth Sciences Convention (AESC), Sustainable Australia. Abstract No 110 of the 22nd Australian Geological Convention, Newcastle, New South Wales, 7-10 July 2014
 
-**Bishop-Taylor, R.**, & Sobotkova, A. (2013) Arable productivity and site catchments in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
+* **Bishop-Taylor, R.**, & Sobotkova, A. (2013) Arable productivity and site catchments in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
 
-Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
+* Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Subsistence Strategies in the Kazanlak Valley, Bulgaria. Paper presented at *19th European Association of Archaeologists Annual Meeting* (EAA 2013), Pilsen, Czech Republic, 4-8 Sep 2013.
 
 
 ## Research media coverage
-* **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand)
+* **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand) / May 2020
 * **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019
 * **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) / June 2019
 * **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / Dec 2017

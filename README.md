@@ -76,40 +76,40 @@
 
 
 ## Publications
-**Bishop-Taylor, R.**, Sagar, S., Lymburner, L., Alam, I., & Sixsmith, J. (2019) [Sub-pixel waterline extraction: Characterising accuracy and sensitivity to indices and spectra](https://www.mdpi.com/2072-4292/11/24/2984). *Remote Sensing*. 2019, 11, 2984.
+* **Bishop-Taylor, R.**, Sagar, S., Lymburner, L., Alam, I., & Sixsmith, J. (2019) [Sub-pixel waterline extraction: Characterising accuracy and sensitivity to indices and spectra](https://www.mdpi.com/2072-4292/11/24/2984). *Remote Sensing*. 2019, 11, 2984.
 
 <img src="https://www.mdpi.com/remotesensing/remotesensing-11-02984/article_deploy/html/images/remotesensing-11-02984-ag.png" width="400">
 
-**Bishop-Taylor, R.**, Sagar, S., Lymburner, L. & Beaman, R.J. (2019). [Between the tides: Modelling the elevation of Australia's exposed intertidal zone at continental scale](https://www.sciencedirect.com/science/article/pii/S0272771418308783). *Estuarine, Coastal and Shelf Science*, 223, pp.115-128.
+* **Bishop-Taylor, R.**, Sagar, S., Lymburner, L. & Beaman, R.J. (2019). [Between the tides: Modelling the elevation of Australia's exposed intertidal zone at continental scale](https://www.sciencedirect.com/science/article/pii/S0272771418308783). *Estuarine, Coastal and Shelf Science*, 223, pp.115-128.
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0272771418308783-fx1_lrg.jpg" width="400">
 
-Ross, S., Sobotkova, A., Nekhrizov, G., Tzvetkova, J. and Connor, S. (2018). The Tundzha Regional Archaeology Project: surface survey, palaeoecology, and associated studies in central and southeast Bulgaria, 2009-2015 final report. *Oxbow Books*.
-* Connor, S., **Bishop-Taylor, R.** *Chapter 4: Archaeological sciences: approaches and methods*
-* **Bishop-Taylor, R.,** Judd, K., Clear, L., Martin, L. *Chapter 7: Surface soil survey in an archaeological context: the Kazanlak Geoscience Project*
+* Ross, S., Sobotkova, A., Nekhrizov, G., Tzvetkova, J. and Connor, S. (2018). [The Tundzha Regional Archaeology Project: surface survey, palaeoecology, and associated studies in central and southeast Bulgaria, 2009-2015 final report](https://www.oxbowbooks.com/oxbow/the-tundzha-regional-archaeology-project.html). *Oxbow Books*.
+    * Connor, S., **Bishop-Taylor, R.** [Chapter 4: Archaeological sciences: approaches and methods](https://www.oxbowbooks.com/oxbow/the-tundzha-regional-archaeology-project.html)
+    * **Bishop-Taylor, R.,** Judd, K., Clear, L., Martin, L. [Chapter 7: Surface soil survey in an archaeological context: the Kazanlak Geoscience Project](https://www.oxbowbooks.com/oxbow/the-tundzha-regional-archaeology-project.html)
 
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018b) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
+* **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018b) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
 
 <img src="https://github.com/robbibt/CV/blob/master/images/paper4_figure1.jpg?raw=true" width="400">
 
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018a) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
+* **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018a) [Impact of hydroclimatic variability on regional-scale landscape connectivity across a dynamic dryland region](https://www.researchgate.net/publication/319610383). *Ecological Indicators* (in press)
 
 <img src="https://github.com/robbibt/CV/blob/master/images/Bishop-Taylor_et_al_graphical_abstract.jpg?raw=true" width="400">
 
-**Bishop-Taylor R**, Tulbure M.G. , Broich M (2017b) [Data from: Surface-water dynamics and land use influence landscape connectivity across a major dryland region](http://dx.doi.org/10.5061/dryad.qf83q). *Dryad Digital Repository.* http://dx.doi.org/10.5061/dryad.qf83q
+* **Bishop-Taylor R**, Tulbure M.G. , Broich M (2017b) [Data from: Surface-water dynamics and land use influence landscape connectivity across a major dryland region](http://dx.doi.org/10.5061/dryad.qf83q). *Dryad Digital Repository.* http://dx.doi.org/10.5061/dryad.qf83q
 
-**Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2017a) [Surface‐water dynamics and land use influence landscape connectivity across a major dryland region](http://onlinelibrary.wiley.com/doi/10.1002/eap.1507/full). *Ecological Applications*, 27, 1124–1137  
-* Top 5% of all research outputs tracked by Altmetric (March 2017)
-* 7000 reads on Researchgate (March 2017)
+* **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2017a) [Surface‐water dynamics and land use influence landscape connectivity across a major dryland region](http://onlinelibrary.wiley.com/doi/10.1002/eap.1507/full). *Ecological Applications*, 27, 1124–1137  
+    * Top 5% of all research outputs tracked by Altmetric (March 2017)
+    * 7000 reads on Researchgate (March 2017)
 
 <img src="https://github.com/robbibt/CV/blob/master/images/paper2figure.jpg?raw=true" width="400">
 
-**Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) [Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin](https://www.researchgate.net/publication/278671122). *Landscape Ecology*, 30, 2045–2065  
-* Featured in the Wall Street Journal ("How Maps Can Serve as Scientific 'Time Machines'"; 4 May 2016)
+* **Bishop-Taylor, R.**, Tulbure, M. G., & Broich, M. (2015) [Surface water network structure, landscape resistance to movement and flooding vital for maintaining ecological connectivity across Australia’s largest river basin](https://www.researchgate.net/publication/278671122). *Landscape Ecology*, 30, 2045–2065  
+    * Featured in the Wall Street Journal ("How Maps Can Serve as Scientific 'Time Machines'"; 4 May 2016)
 
 <img src="https://github.com/robbibt/CV/blob/master/images/paper1figure.jpg?raw=true" width="400">
 
-**Bishop-Taylor, R** Judd, K., Martin, L. & Clear, L. (in press) Surface soil survey in an archaeological context: the Kazanlak Geoscience Project, Bulgaria, in: *Tundzha Regional Archaeological Project*. Oxbow Books, London
+* **Bishop-Taylor, R** Judd, K., Martin, L. & Clear, L. (in press) Surface soil survey in an archaeological context: the Kazanlak Geoscience Project, Bulgaria, in: *Tundzha Regional Archaeological Project*. Oxbow Books, London
 
 
 ## Conferences

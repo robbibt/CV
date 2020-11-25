@@ -76,6 +76,10 @@
 
 
 ## Publications
+**Bishop-Taylor, R.**, Sagar, S., Lymburner, L., Alam, I., & Sixsmith, J. (2019b) [Sub-pixel waterline extraction: Characterising accuracy and sensitivity to indices and spectra](https://www.mdpi.com/2072-4292/11/24/2984). *Remote Sensing*. 2019, 11, 2984.
+
+**Bishop-Taylor, R.**, Sagar, S., Lymburner, L. & Beaman, R.J. (2019a). [Between the tides: Modelling the elevation of Australia's exposed intertidal zone at continental scale](https://www.sciencedirect.com/science/article/pii/S0272771418308783). *Estuarine, Coastal and Shelf Science*, 223, pp.115-128.
+
 **Bishop‐Taylor, R.**, Tulbure, M. G., & Broich, M. (2018b) [Evaluating static and dynamic landscape connectivity modelling using a 25-year remote sensing time series](https://www.researchgate.net/publication/323394927). *Landscape Ecology*, 33(4), 625-640
 
 <img src="https://github.com/robbibt/CV/blob/master/images/paper4_figure1.jpg?raw=true" width="400">

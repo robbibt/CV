@@ -131,7 +131,8 @@ Sobotkova, A. & **Bishop-Taylor, R.** (2013) Iron Age Settlement Patterns and Su
 
 
 ## Research media coverage
-
+* **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019
+* **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) / June 2019
 * **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / Dec 2017
 * **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621) / May 2016
 

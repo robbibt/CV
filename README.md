@@ -52,7 +52,9 @@
 ## Awards and scholarships
 * **2019 Australian Government Digital Awards:** Finalist for the individual Digital Champions category
 
-* **2019, 2020 Geoscience Australia Year in Review:** Nominated for Maximising Data Potential and Innovation
+* **2020 Geoscience Australia Year in Review:** Winner for Innovation Team Award (Digital Earth Australia Hotspots Team)
+
+* **2019, 2020 Geoscience Australia Year in Review:** Nominated for Maximising Data Potential and Innovation Individual Award
 
 * **2016 Outstanding Graphic Award:** Evolution and Ecology Research Centre Research Excellence Awards
 

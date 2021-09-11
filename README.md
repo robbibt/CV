@@ -12,7 +12,7 @@
 
 **Earth Observation Scientist, Geoscience Australia** / 2018 - current
 * Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
-    * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://cmi.ga.gov.au/data-products/dea/581/dea-coastlines)
+    * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/#share=s-DEACoastlines&playStory=1)
     * [NIDEM: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
     
 **Postdoctoral Researcher, University of New South Wales** / 2017 – 2018

@@ -82,7 +82,7 @@
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0034425721004545-ga1.jpg" width="400">
 
-* Krause, C., Dunn, B., **Bishop-Taylor, R.**, Adams, C., Burton, C., Alger, M., Chua, S., Phillips, C., Newey, V., Kouzoubov, K., Leith, A., Ayers, D., Hicks, A., DEA Notebooks contributors 2021. [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks/). Geoscience Australia, Canberra. Available: https://doi.org/10.26186/145234
+* Krause, C., Dunn, B., **Bishop-Taylor, R.**, Adams, C., Burton, C., Alger, M., Chua, S., Phillips, C., Newey, V., Kouzoubov, K., Leith, A., Ayers, D., Hicks, A., DEA Notebooks contributors. (2021) [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks/). Geoscience Australia, Canberra. Available: https://doi.org/10.26186/145234
 
 <img src="https://github.com/GeoscienceAustralia/dea-notebooks/blob/develop/Supplementary_data/dea_logo_wide.jpg" width="400">
 

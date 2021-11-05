@@ -115,6 +115,7 @@
 
 
 ## Research media coverage
+* **The Guardian:** [A 7m wall has gone up on a Sydney beach: are we destroying public space to save private property?](https://www.theguardian.com/environment/2021/oct/24/a-7m-wall-has-gone-up-on-a-sydney-beach-are-we-destroying-public-space-to-save-private-property)
 * **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand) / May 2020
 * **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019
 * **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) / June 2019

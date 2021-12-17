@@ -10,27 +10,27 @@
 
 ## Professional experience
 
-**Earth Observation Scientist, Geoscience Australia** / 2018 - current
+**Earth Observation Scientist, Geoscience Australia** | 2018 - current
 * Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
     * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/#share=s-DEACoastlines&playStory=1)
     * [NIDEM: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
     
-**Postdoctoral Researcher, University of New South Wales** / 2017 – 2018
+**Postdoctoral Researcher, University of New South Wales** | 2017 – 2018
 * Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
 
-**GIS and remote sensing demonstrator, School of Biological, Earth & Environmental Science** / 2016
+**GIS and remote sensing demonstrator, School of Biological, Earth & Environmental Science** | 2016
 * Instructed on use of Geographical Information Systems software (ArcGIS) and data analysis techniques to 60 students in a post-graduate level university course
 
-**Quality assurance/tester, Intersect Australia Pty Ltd** / 2012 – 2014
+**Quality assurance/tester, Intersect Australia Pty Ltd** | 2012 – 2014
 * Tested and provided end-user feedback on GIS functionality of the Federated Archaeological Information Management System Project (FAIMS) Android software application
 
-**Geoscience field/research assistant, Tundzha Regional Archaeological Project, Bulgaria** / 2011
+**Geoscience field/research assistant, Tundzha Regional Archaeological Project, Bulgaria** | 2011
 * Worked collaboratively with an international team of environmental scientists, GIS specialists and landscape archaeologists, and designed and conducted a multi-disciplinary geoarchaeological project involving extensive field work aimed at studying the paleoenvironmental landscape of an archaeologically significant region of central Bulgaria
 
 
 ## Education
 
-**University of New South Wales** / 2014 – 2017
+**University of New South Wales** | 2014 – 2017
 
 *Doctor of Philosophy (Ph.D.) in Geospatial Science*, Geospatial Analysis for Environmental Change Laboratory
 * Analysed high-resolution remote sensing datasets to study ecological habitat networks across a major Australian river basin over a 25 year period 
@@ -39,7 +39,7 @@
 
 <img src="https://github.com/robbibt/CV/blob/master/images/animation_fast_top5.gif?raw=true" width="400">
 
-**University of New South Wales** / 2009 – 2013
+**University of New South Wales** | 2009 – 2013
 
 *Honours Class 1, B Advanced Science (Geoscience) / B Arts*
 * Modelled  dynamic and synergistic effects of climate change and agricultural intensification on historical land use patterns in central Bulgaria over the past 8000 years at varying spatiotemporal scales, using GIS and R programming
@@ -123,13 +123,13 @@
 
 
 ## Research media coverage
-* **NASA Landsat Science:** [Shifting Shores of the Australian Continent Mapped with Landsat](https://landsat.gsfc.nasa.gov/article/shifting-shores-of-the-australian-continent-mapped-with-landsat/)
-* **The Guardian:** [A 7m wall has gone up on a Sydney beach: are we destroying public space to save private property?](https://www.theguardian.com/environment/2021/oct/24/a-7m-wall-has-gone-up-on-a-sydney-beach-are-we-destroying-public-space-to-save-private-property) / October 2021
-* **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand) / May 2020
-* **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019
-* **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) / June 2019
-* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) / Dec 2017
-* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621) / May 2016
+* **NASA Landsat Science:** [Shifting Shores of the Australian Continent Mapped with Landsat](https://landsat.gsfc.nasa.gov/article/shifting-shores-of-the-australian-continent-mapped-with-landsat/) | December 2021
+* **The Guardian:** [A 7m wall has gone up on a Sydney beach: are we destroying public space to save private property?](https://www.theguardian.com/environment/2021/oct/24/a-7m-wall-has-gone-up-on-a-sydney-beach-are-we-destroying-public-space-to-save-private-property) | October 2021
+* **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand) | May 2020
+* **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) | July 2019
+* **NASA Landsat Science:** [More than Naught: The “Z” of Where Land Meets Sea](https://landsat.gsfc.nasa.gov/article/more-naught-z-where-land-meets-sea) | June 2019
+* **NASA Landsat Science:** [Graphing a Path to Survival: Habitat Connectivity in Australia’s Murray-Darling Basin](https://landsat.gsfc.nasa.gov/graphing-a-path-to-survival-habitat-connectivity-in-australias-murray-darling-basin/) | Dec 2017
+* **Wall Street Journal:** [How Maps Can Serve as Scientific ‘Time Machines’](https://www.wsj.com/articles/how-maps-can-serve-as-scientific-time-machines-1462373621) | May 2016
 
 
 ## Interests and hobbies
@@ -138,8 +138,8 @@
 * Map artworks featured on [Lonely Planet](http://www.lonelyplanet.com/news/2016/04/19/australia-rivers-streams-maps/), [Yahoo News](https://uk.news.yahoo.com/river-runs-maps-countries-made-092848965/photo-a-map-of-europe-s-1464778554515.html), [Gizmodo](https://www.gizmodo.com.au/2017/01/striking-new-maps-show-the-beauty-of-earths-shadows/), [Mashable](http://mashable.com/2016/09/16/detailed-maps-australia-plasma), [The Independent](http://indy100.independent.co.uk/article/the-beautiful-map-of-europe-drawn-by-its-rivers-and-streams--ZyzcQXdTdQW), [BuzzFeed](https://www.buzzfeed.com/simoncrerar/oz-will-fry-your-fcking-brain), [Smith Journal](http://www.smithjournal.com.au/blogs/science/2684-every-one-of-australia-s-1-3-million-rivers-and-streams-mapped), [Yahoo Travel](https://au.travel.yahoo.com/news/a/31392369/a-surprising-view-of-the-driest-continent-australia/), [Techly](http://www.techly.com.au/2016/04/20/these-mesmerising-maps-of-australias-streams-and-rivers-will-blow-you-away/), [GearJunkie](https://gearjunkie.com/map-data-australian-rivers), [AWOL](http://awol.com.au/so-really-how-dry-is-our-sunburnt-country/26813), [Geoawesomeness](http://geoawesomeness.com/this-beautiful-map-shows-each-and-every-road-in-australia/), [NUVO Magazine](http://nuvomagazine.com/art/roads-of-canada), [Gizmodo](https://www.gizmodo.com.au/2017/01/striking-new-maps-show-the-beauty-of-earths-shadows/), [Seeker](http://www.seeker.com/shadow-maps-show-where-sunlight-does-not-fall-2177100742.html), [Space.com](http://www.space.com/35203-shadow-maps-show-where-sunlight-does-not-fall.html), [Mother Nature Network](http://www.mnn.com/green-tech/transportation/blogs/every-line-mesmerizing-map-is-road-US), [Water Canada Magazine](http://watercanada.net/2017/cartophilia/)
 
 **Nature and wildlife photographer**
-* **1st prize (Biodiversity):** [Ecological Society of Australia Photo competition](https://www.ecolsoc.org.au/media-and-events/esa-ecology-action-photo-competition/2016-photocomp-winners) / 2016
-* **Major Winner:** [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) / 2016
+* **1st prize (Biodiversity):** [Ecological Society of Australia Photo competition](https://www.ecolsoc.org.au/media-and-events/esa-ecology-action-photo-competition/2016-photocomp-winners) | 2016
+* **Major Winner:** [UNSW Science Photo Competition](http://www.science.unsw.edu.au/news/photography-winners-2016-unsw-science-photo-competition) | 2016
 
 <img src="https://github.com/robbibt/CV/blob/master/images/cs_sinistermoth.jpg?raw=true" width="400">
 

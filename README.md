@@ -123,6 +123,7 @@
 
 
 ## Research media coverage
+* **NASA Landsat Science:** [Shifting Shores of the Australian Continent Mapped with Landsat](https://landsat.gsfc.nasa.gov/article/shifting-shores-of-the-australian-continent-mapped-with-landsat/)
 * **The Guardian:** [A 7m wall has gone up on a Sydney beach: are we destroying public space to save private property?](https://www.theguardian.com/environment/2021/oct/24/a-7m-wall-has-gone-up-on-a-sydney-beach-are-we-destroying-public-space-to-save-private-property) / October 2021
 * **NASA Earth Observatory:** [Saving Straddie’s Sand (featured animation)](https://earthobservatory.nasa.gov/images/146669/saving-straddies-sand) / May 2020
 * **NASA Earth Observatory:** [Mapping the Land Between the Tides](https://earthobservatory.nasa.gov/images/145237/mapping-the-land-between-the-tides) / July 2019

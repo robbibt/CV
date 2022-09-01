@@ -5,15 +5,15 @@
 * Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:robbibt@gmail.com) | [Twitter](https://twitter.com/SatelliteSci) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
+[Email](mailto:Robbi.BishopTaylor@ga.gov.au) | [Twitter](https://twitter.com/SatelliteSci) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
 
 
 ## Professional experience
 
 **Earth Observation Scientist, Geoscience Australia** | 2018 - current
 * Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
-    * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/#share=s-DEACoastlines&playStory=1)
-    * [NIDEM: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
+    * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/story/DEACoastlines)
+    * [DEA Intertidal Elevation: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
     
 **Postdoctoral Researcher, University of New South Wales** | 2017 – 2018
 * Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
@@ -50,6 +50,8 @@
 
 
 ## Awards and scholarships
+* **2022 Earth Observation Australia Awards:** Highly commended, Early-Career Contribution to the Development of the Australian Earth Observation Community and its Capabilities Award
+
 * **2019 Australian Government Digital Awards:** Finalist for the individual Digital Champions category
 
 * **2020 Geoscience Australia Year in Review:** Winner for Innovation Team Award (Digital Earth Australia Hotspots Team)

@@ -15,6 +15,8 @@
     * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/story/DEACoastlines)
     * [DEA Intertidal Elevation: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
     
+<img src="https://github.com/GeoscienceAustralia/dea-coastlines/blob/develop/visualisation/images/DEACoastlines_header.gif?raw=true" width="900">
+
 **Postdoctoral Researcher, University of New South Wales** | 2017 – 2018
 * Development of land use-connectivity network analysis models and modification of US-centric land change simulation models (CHANGE model based on FORE-SCE and LADS) for application to Australia
 

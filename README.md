@@ -1,4 +1,4 @@
-# Dr Robbi Bishop-Taylor
+# Dr Robbi Bishop-Taylor  <img src="images/robbi.jpg?raw=true" width="250" align="right">
 ## Coastal Earth Observation Scientist / Ph.D. in Geospatial Science
 
 * International recognition for achievements in geospatial analysis and environmental geoscience

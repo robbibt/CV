@@ -5,7 +5,7 @@
 * Expertise in Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:Robbi.BishopTaylor@ga.gov.au) | [Bluesky](@satellitesci.bsky.social) | [Linkedin](https://www.linkedin.com/in/satellitesci/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
+[Email](mailto:Robbi.BishopTaylor@ga.gov.au) | [Bluesky](https://bsky.app/profile/satellitesci.bsky.social) | [Linkedin](https://www.linkedin.com/in/satellitesci/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
 
 ## Professional experience
 

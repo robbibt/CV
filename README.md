@@ -127,6 +127,7 @@
 
 
 ## Research media coverage
+* **NASA Landsat Science:** [Australian Intertidal Zone Exposed: Landsat and Sentinel-2 Provide Information on Dynamic Region](https://landsat.gsfc.nasa.gov/article/australian-intertidal-zone-exposed-landsat-and-sentinel-2-provide-information-on-dynamic-region/) | April 2024
 * **ABC News:** [La Niña sea level rise compounds the movement of West Australian beaches](https://www.abc.net.au/news/2022-09-17/la-nina-likely-to-intensify-wa-beach-growth-and-erosion/101415714) | September 2022
 * **NASA Landsat Science:** [Shifting Shores of the Australian Continent Mapped with Landsat](https://landsat.gsfc.nasa.gov/article/shifting-shores-of-the-australian-continent-mapped-with-landsat/) | December 2021
 * **The Guardian:** [A 7m wall has gone up on a Sydney beach: are we destroying public space to save private property?](https://www.theguardian.com/environment/2021/oct/24/a-7m-wall-has-gone-up-on-a-sydney-beach-are-we-destroying-public-space-to-save-private-property) | October 2021

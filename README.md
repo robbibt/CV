@@ -2,18 +2,17 @@
 ## Coastal Earth Observation Scientist / Ph.D. in Geospatial Science
 
 * International recognition for achievements in geospatial analysis and environmental geoscience
-* Expertise in GIS, Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
+* Expertise in Python and R programming for spatiotemporal analysis and visualisation of large geographic datasets
 * Academic and professional experience in interdisciplinary scientific analysis, teamwork and written and oral communication
 
-[Email](mailto:Robbi.BishopTaylor@ga.gov.au) | [Twitter](https://twitter.com/SatelliteSci) | [Linkedin](https://www.linkedin.com/in/robbibt/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
-
+[Email](mailto:Robbi.BishopTaylor@ga.gov.au) | [Bluesky](@satellitesci.bsky.social) | [Linkedin](https://www.linkedin.com/in/satellitesci/) |   [Researchgate](https://www.researchgate.net/profile/Robbi_Bishop-Taylor) | Canberra, Australian Capital Territory
 
 ## Professional experience
 
 **Earth Observation Scientist, Geoscience Australia** | 2018 - current
-* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform. Projects include:
-    * [DEA Coastlines: a continental dataset providing annual shorelines and rates of change along the entire Australian coastline from 1988 to the present](https://maps.dea.ga.gov.au/story/DEACoastlines)
-    * [DEA Intertidal Elevation: a continental digital elevation model of Australia's intertidal zone](https://github.com/GeoscienceAustralia/nidem)
+* Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform.
+    - Lead developer of the **[`eo-tides` Python package](https://geoscienceaustralia.github.io/eo-tides/)**: tide modelling tools for large-scale satellite earth observation analysis
+    - Developer of the **[Digital Earth Australia Coastlines](https://maps.dea.ga.gov.au/story/DEACoastlines)**, **[DE Africa Coastlines](https://maps.digitalearth.africa/story/DEAfricaCoastlines)** and **[DEA Intertidal](https://maps.dea.ga.gov.au/story/DEAIntertidal)** coastal change datasets
     
 <img src="https://github.com/GeoscienceAustralia/dea-coastlines/blob/develop/visualisation/images/DEACoastlines_header.gif?raw=true" width="900">
 

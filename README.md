@@ -81,6 +81,25 @@
 
 
 ## Publications
+
+* **Bishop-Taylor, R.**, Phillips, C., Sagar, S., & Newey, V. (2026). [Time and tide: Mapping the changing 3D shape of Australia's dynamic intertidal zone using time series satellite data](https://www.sciencedirect.com/science/article/pii/S0034425726004335). *Remote Sensing of Environment*, 347, 115663. Available at: https://doi.org/10.1016/j.rse.2026.115663
+
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S0034425726004335-ga1_lrg.jpg" width="400">
+
+* **Bishop-Taylor, R.**, Sagar, S., Phillips, C., & Newey, V. (2026). [Optimising coastal tide predictions: an ensemble satellite altimetry and optical remote sensing approach](https://www.tandfonline.com/doi/abs/10.1080/01431161.2026.2666912). *International Journal of Remote Sensing*, 47(12), 5268-5287. Available at: https://doi.org/10.1080/01431161.2026.2666912
+
+<img src="https://github.com/user-attachments/assets/99e6dfcf-08bd-4523-a2a0-e3aee5fc9251" width="400">
+
+* **Bishop-Taylor, R.**, Phillips, C., Sagar, S., Newey, V., & Sutterley, T. (2025). [eo-tides: Tide modelling tools for large-scale satellite Earth observation analysis](https://joss.theoj.org/papers/10.21105/joss.07786). *Journal of Open Source Software*, 10(109), 7786. Available at: https://doi.org/10.21105/joss.07786
+
+ <img src="https://raw.githubusercontent.com/GeoscienceAustralia/eo-tides/main/paper/figures/joss_abstract.png" width="400">
+
+* Nezlin, N. P., Herman, J. D., Hodge, J., Sagar, S., **Bishop-Taylor, R.**, Zheng, G., & DiGiacomo, P. M. (2023). [Assessment of changes of complex shoreline from medium-resolution satellite imagery](https://link.springer.com/article/10.1007/s12237-023-01259-x). *Estuaries and Coasts*, 46(7), 1723-1739. Available at: https://doi.org/10.1007/s12237-023-01259-x
+
+* Zuchuat, V., Poyatos-Moré, M., Nyberg, B., Nanson, R. A., Sagar, S., Lymburner, L., & **Bishop-Taylor, R.** (2023). [Use of remote-sensing to quantify the distribution of progradation/erosion along a forced-regressive modern coastline: driving factors and impact on the stratigraphic record](https://thesedimentaryrecord.scholasticahq.com/article/70239-use-of-remote-sensing-to-quantify-the-distribution-of-progradation-erosion-along-a-forced-regressive-modern-coastline-driving-factors-and-impact-on-t). *The Sedimentary Record*, 21(1). Available at: https://doi.org/10.2110/001c.70239
+
+* Nanson, R., **Bishop-Taylor, R.**, Sagar, S., & Lymburner, L. (2022). [Geomorphic insights into Australia's coastal change using a national dataset derived from the multi-decadal Landsat archive](https://www.sciencedirect.com/science/article/pii/S0272771421005618). *Estuarine, Coastal and Shelf Science*, 265, 107712. Available: https://doi.org/10.1016/j.ecss.2021.107712
+
 * **Bishop-Taylor, R.**, Nanson, R., Sagar, S., Lymburner, L. (2021) [Mapping Australia's dynamic coastline at mean sea level using three decades of Landsat imagery](https://doi.org/10.1016/j.rse.2021.112734). *Remote Sensing of Environment*, 267, 112734. Available: https://doi.org/10.1016/j.rse.2021.112734
 
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0034425721004545-ga1.jpg" width="400">
@@ -91,7 +110,7 @@
 
 * **Bishop-Taylor, R.**, Sagar, S., Lymburner, L., Alam, I., & Sixsmith, J. (2019) [Sub-pixel waterline extraction: Characterising accuracy and sensitivity to indices and spectra](https://www.mdpi.com/2072-4292/11/24/2984). *Remote Sensing*. 2019, 11, 2984.
 
-<img src="https://www.mdpi.com/remotesensing/remotesensing-11-02984/article_deploy/html/images/remotesensing-11-02984-ag.png" width="400">
+<img src="https://pub.mdpi-res.com/remotesensing/remotesensing-11-02984/article_deploy/html/images/remotesensing-11-02984-ag.png" width="400">
 
 * **Bishop-Taylor, R.**, Sagar, S., Lymburner, L. & Beaman, R.J. (2019). [Between the tides: Modelling the elevation of Australia's exposed intertidal zone at continental scale](https://www.sciencedirect.com/science/article/pii/S0272771418308783). *Estuarine, Coastal and Shelf Science*, 223, pp.115-128.
 

@@ -12,7 +12,7 @@
 **Earth Observation Scientist, Geoscience Australia** | 2018 - current
 * Product development, spatial analysis and processing of extremely large remotely-sensed spatiotemporal datasets managed within the Digital Earth Australia (DEA) platform.
     - Lead developer of the **[`eo-tides` Python package](https://geoscienceaustralia.github.io/eo-tides/)**: tide modelling tools for large-scale satellite earth observation analysis
-    - Developer of the **[Digital Earth Australia Coastlines](https://maps.dea.ga.gov.au/story/DEACoastlines)**, **[DE Africa Coastlines](https://maps.digitalearth.africa/story/DEAfricaCoastlines)** and **[DEA Intertidal](https://maps.dea.ga.gov.au/story/DEAIntertidal)** coastal change datasets
+    - Developer of the **[Digital Earth Australia Coastlines](https://knowledge.dea.ga.gov.au/data/product/dea-coastlines/)**, **[DE Africa Coastlines](https://maps.digitalearth.africa/story/DEAfricaCoastlines)**, **[DEA Intertidal](https://knowledge.dea.ga.gov.au/data/product/dea-intertidal/)** and **[DEA Tidal Composites](https://knowledge.dea.ga.gov.au/data/product/dea-tidal-composites/)** coastal mapping datasets
     
 <img src="https://github.com/GeoscienceAustralia/dea-coastlines/blob/develop/visualisation/images/DEACoastlines_header.gif?raw=true" width="900">
 
